@@ -23,12 +23,12 @@ Aplikasi todo yang membantu mencatat, mengelola, dan memantau progres aktivitas 
 
 ### Light Mode
 <p align="center">
-  <img src="./assets/screenshots/Light_Theme.jpg" alt="Light Mode" width="250" />
+  <img src="./assets/Light_Theme.jpg" alt="Light Mode" width="250" />
 </p>
 
 ### Dark Mode
 <p align="center">
-  <img src="./assets/screenshots/Dark_Theme.jpg" alt="Dark Mode" width="250" />
+  <img src="./assets/Dark_Theme .jpg" alt="Dark Mode" width="250" />
 </p>
 
 ## Cara Menjalankan
